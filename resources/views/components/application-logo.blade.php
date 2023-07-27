@@ -1,0 +1,1 @@
+<img src="{{asset('build/assets/images/froi logo.jpeg')}}" alt="" style="" width="120px" height="50px">
